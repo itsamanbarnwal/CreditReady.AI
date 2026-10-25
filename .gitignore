@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local database
+creditready-backend/chroma_db/
+
+# macOS
+.DS_Store
