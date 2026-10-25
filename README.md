@@ -1,4 +1,3 @@
-# CreditReady.AI
 # CreditReady.AI 💳
 
 ### AI-Powered Financial Readiness Assistant
