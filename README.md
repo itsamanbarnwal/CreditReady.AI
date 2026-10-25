@@ -1,7 +1,7 @@
 # CreditReady.AI 💳
 
 Website Link:
-https://credit-ready-ai-git-main-credit-ready-ai1.vercel.app/
+https://credit-ready-ai.vercel.app?_vercel_share=nLh3RhkZSVrYq82HTpz0JZfEDqFw6nvS
 
 ### AI-Powered Financial Readiness Assistant
 
