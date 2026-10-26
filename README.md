@@ -20,6 +20,7 @@ The project combines a React-based frontend with a Python backend, a local langu
 - **Local AI Inference** — Use Ollama to run language and embedding models locally.
 - **Interactive Dashboard** — View transaction information and financial visualizations through a React frontend.
 - **FastAPI Backend** — Process chat requests and return structured responses to the frontend.
+- **End to End encryption** -  Its an secure communication method that keeps data locked from the moment it leaves the sender's device until it reaches the recipient's device
 
 ## 🛠️ Tech Stack
 
